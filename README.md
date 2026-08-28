@@ -158,6 +158,11 @@ The goal is to keep rules explicit, serializable, and predictable while still
 covering the common patterns in the exercise: cross-field comparisons and
 conditional required fields.
 
+## Additional notes
+
+For supporting context, the engineering summary, Loom link, and related notes are
+stored in [ENGINEERING_NOTES.md](ENGINEERING_NOTES.md).
+
 ## Rules
 
 - The existing tests must still pass. If you change one, say why.
